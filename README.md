@@ -1,1 +1,1 @@
-# Modified gitstudyrepository
+# Modified gitstudyrepository by Developer B
